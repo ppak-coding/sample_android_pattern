@@ -14,6 +14,6 @@ https://github.com/android/architecture-samples
 
 
 
-## [MVVM 예제 - BEST KOTLIN](https://github.com/AgustaRC/MVVMArchitecture)
+## [MVVM 예제 - KOTLIN](https://github.com/AgustaRC/MVVMArchitecture)
 
-## [MVVM 예제 - BEST JAVA](https://github.com/MindorksOpenSource/android-mvvm-architecture/tree/master/app/src/main/java/com/mindorks/framework/mvvm)
+## [MVVM 예제 - JAVA](https://github.com/MindorksOpenSource/android-mvvm-architecture/tree/master/app/src/main/java/com/mindorks/framework/mvvm)
