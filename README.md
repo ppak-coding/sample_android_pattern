@@ -4,7 +4,7 @@ mvc -> mvp -> mvvm
 
 참고한 블로그
 
-https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android
 
 
 
