@@ -20,3 +20,4 @@ https://github.com/android/architecture-samples
 
 
 ## [MVP 예제 - JAVA](https://github.com/dlwls5201/MyAndroidArchitecture/tree/MVP-Basic-Java/app/src/main/java/com/tistory/black_jin0427/myandroidarchitecture)
+## [위 MVP 설명 블로그](https://black-jin0427.tistory.com/149)
