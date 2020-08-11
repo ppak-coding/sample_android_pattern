@@ -1,4 +1,4 @@
-package psc.schoolt.mvp.view;
+package psc.schoolt.mvp2.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,10 +12,11 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import psc.schoolt.mvp.R;
-import psc.schoolt.mvp.presenter.MainPresenter;
+import psc.schoolt.mvp2.MainConstants;
+import psc.schoolt.mvp2.R;
+import psc.schoolt.mvp2.presenter.MainPresenter;
 
-public class MainActivity extends AppCompatActivity implements MainView {
+public class MainActivity extends AppCompatActivity implements MainConstants.View {
 
     private static String TAG = MainActivity.class.getName();
 
@@ -35,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
         buttonGrid = (ViewGroup) findViewById(R.id.buttonGrid);
         presenter.onCreate();
     }
+
 
     @Override
     protected void onPause() {
@@ -81,7 +83,6 @@ public class MainActivity extends AppCompatActivity implements MainView {
         presenter.onButtonSelected(row, col);
 
     }
-
 
 
     /** 인터페이스 **/
