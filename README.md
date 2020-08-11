@@ -30,3 +30,5 @@ https://github.com/android/architecture-samples
 
 
 ## [MVP 예제 - JAVA](https://github.com/dlwls5201/MyAndroidArchitecture/tree/MVP-Basic-Java/app/src/main/java/com/tistory/black_jin0427/myandroidarchitecture)## [MVP 설명](https://black-jin0427.tistory.com/149)
+
+## [비즈니스로직이란?](https://mommoo.tistory.com/67)
