@@ -3,8 +3,11 @@ mvc -> mvp -> mvvm
 
 
 
-MVP 가 나온 이유 - View와 Model을 완전한 분리해서 사용하기 위해 (MVC 일때는 MainActivity 에서 모델객체를 생성하고 사용했으나 MVP 일때는 MainActivity 가아닌 Presenter 에서 모델객체를 생성해서 사용)
+MVP 가 나온 이유 - View와 Model을 완전한 분리해서 사용하기 위해서
 
+(MVC 일때는 MainActivity 에서 모델객체를 생성하고 사용했으나 MVP 일때는 MainActivity 가아닌 Presenter 에서 모델객체를 생성해서 사용)
+
+--정리 : MVC view controller (activity.java 한곳 뷰 + 컨트롤러 모두 있음) / MPV view ( acitvity.java + xml 을 view 로 봄) controller ( presenter 가 컨트롤러 역할 )
 
 
 참고한 블로그
