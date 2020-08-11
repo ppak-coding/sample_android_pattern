@@ -2,6 +2,11 @@
 mvc -> mvp -> mvvm 
 
 
+
+MVP 가 나온 이유 - View와 Model을 완전한 분리해서 사용하기 위해
+
+
+
 참고한 블로그
 
 https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android
